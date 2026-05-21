@@ -60,4 +60,6 @@ Rows: 8,794 titles | Columns: 12 (+ 5 engineered features)
 | Monthly release patterns | SUM() OVER() for percentage of total |
 | International vs Domestic | CASE WHEN + subquery |
 
-## Project Structure
+## Author
+**Tess Kamau**  
+[GitHub](https://github.com/Tee-ai63)
