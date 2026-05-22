@@ -11,7 +11,8 @@ The project covers data cleaning in Python, business analysis in SQL, and an
 interactive dashboard in Tableau Public.
 
 ## Live Dashboard
-🔗 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/tess.kamau/viz/NetflixContentAnalysisDashboard_17793208304690/NetflixContentAnalysisDashboard)
+🔗 [View Interactive Tableau Dashboard]
+https://public.tableau.com/app/profile/tess.kamau/viz/NetflixContentAnalysisDashboard_17793208304690/NetflixContentAnalysisDashboard?publish=yes
 
 ## Hashnode article : https://netflixanalysis.hashnode.dev/what-netflix-s-data-reveals-about-its-global-content-strategy
 ## Tools Used
