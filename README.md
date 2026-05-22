@@ -14,7 +14,8 @@ interactive dashboard in Tableau Public.
 🔗 [View Interactive Tableau Dashboard]
 https://public.tableau.com/app/profile/tess.kamau/viz/NetflixContentAnalysisDashboard_17793208304690/NetflixContentAnalysisDashboard?publish=yes
 
-## Hashnode article : https://netflixanalysis.hashnode.dev/what-netflix-s-data-reveals-about-its-global-content-strategy
+## Medium article : https://medium.com/@wanjirutee4/what-netflixs-data-reveals-about-its-global-content-strategy-and-what-a-competitor-should-do-3ecd296babbf
+
 ## Tools Used
 - **Python** — data cleaning, exploration and visualisation (Pandas, Matplotlib, Seaborn)
 - **SQLite / DB Browser** — business questions answered with 10 SQL queries
